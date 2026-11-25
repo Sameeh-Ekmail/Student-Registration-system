@@ -39,5 +39,15 @@ Run the application:
 java -cp out Main
 ```
 
-## Storage
-The application uses ArrayList for temporary in-memory data storage.
+## Validation Rules
+
+- Each student must have a unique student ID.
+- Each course must have a unique course ID.
+- Students cannot register for non-existing courses.
+- Duplicate registrations are not allowed.
+- Multiple students can register in the same course.
+
+## Data Storage
+
+The application uses ArrayList to store data
+temporarily during program execution.
