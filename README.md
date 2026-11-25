@@ -39,9 +39,5 @@ Run the application:
 java -cp out Main
 ```
 
-## Team Members
-- Member 1: [Your Name]
-- Member 2: [Partner's Name]
-
 ## Storage
 The application uses ArrayList for temporary in-memory data storage.
